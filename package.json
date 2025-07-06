@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s06bkps",
+  "description": "https://scrimba.com/intro-to-mistral-ai-c035/~0m",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "0.1.3",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
